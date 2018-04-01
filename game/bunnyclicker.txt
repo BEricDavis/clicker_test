@@ -11,7 +11,7 @@ Settings
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
-	stylesheet:css/bigBlue.css
+	stylesheet:../css/bigBlue.css
 
 Layout
 	use default
